@@ -2,7 +2,7 @@
 
 I profiled and optimized a live camera, computer-vision, and local-LLM stack on an NVIDIA Jetson Orin Nano. Moving YOLOv8n inference from CPU to TensorRT FP16 raised the measured camera stream from **8.5 to 30.0 FPS** (the camera's 30 FPS limit). Later work moved detection and pose into DeepStream, reduced browser-frame CPU work, and isolated local Qwen inference from the video process.
 
-This repository is my performance engineering portfolio: the results and decisions are here in the README; the linked notes preserve the measurements and failure investigations behind them.
+This repository is my engineering portfolio: the results and decisions are here in the README; the linked notes preserve the measurements and failure investigations behind them.
 
 ## Video of drone in action
 
