@@ -4,6 +4,14 @@ I profiled and optimized a live camera, computer-vision, and local-LLM stack on 
 
 This repository is my performance engineering portfolio: the results and decisions are here in the README; the linked notes preserve the measurements and failure investigations behind them.
 
+## Video of drone in action
+
+
+
+https://github.com/user-attachments/assets/c954f707-9052-458e-8af9-3767928d823a
+
+
+
 ## Measured results
 
 | Problem | Change I made | Observed result |
