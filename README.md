@@ -4,6 +4,11 @@ I profiled and optimized a live camera, computer-vision, and local-LLM stack on 
 
 This repository is my engineering portfolio: the results and decisions are here in the README; the linked notes preserve the measurements and failure investigations behind them.
 
+## Image of parts used to create the drone
+
+<img width="487" height="275" alt="image" src="https://github.com/user-attachments/assets/5c6273e2-32c8-41bb-ae67-dcec354ec745" />
+
+
 ## Video of drone in action
 
 
